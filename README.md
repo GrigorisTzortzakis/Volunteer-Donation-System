@@ -20,6 +20,12 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
    - **Service** items (e.g., medical, nursing) with no quantity restrictions.
    - Beneficiaries have a record of received items which the **Admin** can reset.
 
+3. **User Interaction Options**:
+   - The system can be accessed via two interfaces:
+     - **Command Line Interface (CLI)**: Provides text-based interaction for users, allowing for quick navigation and management of tasks.
+     - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
+   - Both interfaces offer full functionality for user management, donation tracking, and request handling, ensuring ease of use and accessibility.
+
 ### Implemented Classes:
 - **User**: Abstract class for all users with subclasses:
   - **Admin**: Manages the system with additional privileges.
@@ -45,8 +51,6 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
 ### Exception Handling
 Custom exceptions handle invalid actions, such as requesting more than the available quantity, exceeding allowed request limits, or attempting to add duplicate items.
 
-## Technologies Used
-- **Java** and **C++**: Both languages are used to implement the system, demonstrating flexibility in OOP design and language-specific features.
 
 ## Instructions
 
@@ -66,36 +70,7 @@ To execute this project, you need to ensure that relevant files are properly org
 For more information on the project requirements and implementation:
 - View the project instructions and guidelines in the accompanying documentation.
 
----
 
-## Project Requirements and Evaluation Criteria
 
-This project will be evaluated on the following criteria:
-1. **OOP Principles**: Proper class structure, encapsulation, method overriding, and polymorphism.
-2. **Code Quality**: Readability, maintainability, and comments for clarity.
-3. **Functionality**: Complete and correct implementation of features such as user role management, donation processing, and error handling.
-4. **Documentation**: Adequate in-code comments and README for understanding the project setup and usage.
 
----
-
-## Deliverables
-
-1. **Source Code**: Complete source code in Java and C++.
-2. **Documentation**: README and additional documents explaining class design and implementation.
-3. **UML Class Diagram**: Visual representation of the class hierarchy and relationships.
-4. **Execution Guide**: Step-by-step instructions for compiling and running the project.
-
----
-
-## License
-
-This project is developed for educational purposes within the **University of Patras** and may have restrictions on external sharing.
-
----
-
-## Acknowledgements
-
-Developed for the **UOP CEID department** as part of the **Object-Oriented Programming course**.
-
----
 
