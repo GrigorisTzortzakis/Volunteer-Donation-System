@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56dd21ae-b7a2-42a4-b5da-c3f6c0fdc18f)# Volunteer Donation System - Object-Oriented Programming Project
+# Volunteer Donation System - Object-Oriented Programming Project
 
 ## Overview
 
