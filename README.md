@@ -21,7 +21,17 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
    - Beneficiaries have a record of received items which the **Admin** can reset.
 
 3. **User Interaction Options**:
-   - The system can be accessed via two interfaces:
+
+ - Initial login and register is handled via the command line menu:
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Initial_Login_Phone.png" alt="CLI - Selection Menu" width="300" height="300">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/User_Not_Found.png" alt="CLI - Admin Main Menu" width="300" height="300">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Register.png" alt="CLI - Admin View" width="300" height="300">
+        
+   </div>
+   
+   - After a successfull login, the system can be handled via 2 options:
+
      - **Command Line Interface (CLI)**: Provides text-based interaction for users, allowing for quick navigation and management of tasks.
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Selection_Gui_Command_LIne.png" alt="CLI - Selection Menu" width="300" height="300">
