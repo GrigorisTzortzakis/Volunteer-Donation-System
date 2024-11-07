@@ -34,23 +34,32 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Show_Offers.png" alt="CLI - Show Offers" width="300" height="300">
        </div>
       
-     - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
-    <div >
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Main.png" alt="CLI - Selection Menu" width="400" >
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_View.png" alt="CLI - Admin Main Menu" width="400" >
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Manage.png" alt="CLI - Admin View" width="400" ">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Beneficiary_Manage.png" alt="CLI - Admin View 2" width="300" height="300">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Main.png" alt="CLI - Admin Monitor" width="300" height="300">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Request.png" alt="CLI - Admin Monitor 2" width="300" height="300">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Modify.png" alt="CLI - Add Request" width="300" height="300">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_View_Received.png" alt="CLI - Show Offers" width="300" height="300">
-       <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Commit.png" alt="CLI - Show Offers" width="300" height="300">
-       <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Offer.png" alt="CLI - Show Offers" width="300" height="300">
-       <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Offer_2.png" alt="CLI - Show Offers" width="300" height="300">
-       <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_View.png" alt="CLI - Show Offers" width="300" height="300">
-       <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Commit.png" alt="CLI - Show Offers" width="300" height="300">
-       </div>
-       
+    - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Main.png" alt="Admin GUI Main" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_View.png" alt="Admin GUI View" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Manage.png" alt="Admin GUI Manage" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Gui_Beneficiary_Manage.png" alt="Admin GUI Beneficiary Manage" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Main.png" alt="Beneficiary GUI Main" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Request.png" alt="Beneficiary GUI Request" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Modify.png" alt="Beneficiary GUI Modify" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_View_Received.png" alt="Beneficiary GUI View Received" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Beneficiary_Gui_Commit.png" alt="Beneficiary GUI Commit" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Offer.png" alt="Donator GUI Offer" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Offer_2.png" alt="Donator GUI Offer 2" width="400">
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_View.png" alt="Donator GUI View" width="400">
+
+   <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Donator_Gui_Commit.png" alt="Donator GUI Commit" width="400">
+
+</div>
+
    - Both interfaces offer full functionality for user management, donation tracking, and request handling, ensuring ease of use and accessibility.
 
 ### Implemented Classes:
