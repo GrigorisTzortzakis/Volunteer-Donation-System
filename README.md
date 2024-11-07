@@ -24,14 +24,14 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
    - The system can be accessed via two interfaces:
      - **Command Line Interface (CLI)**: Provides text-based interaction for users, allowing for quick navigation and management of tasks.
       <div >
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Selection_Gui_Command_LIne.png" alt="CLI - Selection Menu" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_command_Main_Menu.png" alt="CLI - Admin Main Menu" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View.png" alt="CLI - Admin View" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View_2.png" alt="CLI - Admin View 2" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor.png" alt="CLI - Admin Monitor" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor_2.png" alt="CLI - Admin Monitor 2" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Add_Request.png" alt="CLI - Add Request" width="400" height="400">
-         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Show_Offers.png" alt="CLI - Show Offers" width="400" height="400">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Selection_Gui_Command_LIne.png" alt="CLI - Selection Menu" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_command_Main_Menu.png" alt="CLI - Admin Main Menu" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View.png" alt="CLI - Admin View" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View_2.png" alt="CLI - Admin View 2" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor.png" alt="CLI - Admin Monitor" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor_2.png" alt="CLI - Admin Monitor 2" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Add_Request.png" alt="CLI - Add Request" width="400" >
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Show_Offers.png" alt="CLI - Show Offers" width="400" >
        </div>
       
      - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
