@@ -94,8 +94,8 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
 
 - **Menu**: Provides a command-line interface for user interactions.
 
-### Exception Handling
-Custom exceptions handle invalid actions, such as requesting more than the available quantity, exceeding allowed request limits, or attempting to add duplicate items.
+- **Exceptions**: Custom exceptions handle invalid actions, such as requesting more than the available quantity or attempting to add duplicate items.
+
 
 
 ## Instructions
