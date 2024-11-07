@@ -34,9 +34,7 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Show_Offers.png" alt="CLI - Show Offers" width="300" height="300">
        </div>
       
-    - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
-
-- **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
+   - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
