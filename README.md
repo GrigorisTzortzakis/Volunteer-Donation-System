@@ -23,6 +23,18 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
 3. **User Interaction Options**:
    - The system can be accessed via two interfaces:
      - **Command Line Interface (CLI)**: Provides text-based interaction for users, allowing for quick navigation and management of tasks.
+       <div style="display: flex; justify-content: space-between;">
+      <div style="text-align: center; width: 48%;">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Selection_Gui_Command_LIne.png" alt="Command Line Interface" width="100%">
+          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_command_Main_Menu.png" alt="Command Line Interface" width="100%">
+          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View.png" alt="Command Line Interface" width="100%">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_View_2.png" alt="Command Line Interface" width="100%">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor.png" alt="Command Line Interface" width="100%">
+          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Admin_Monitor_2.png" alt="Command Line Interface" width="100%">
+            <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Add_Request.png" alt="Command Line Interface" width="100%">
+             <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Show_Offers.png" alt="Command Line Interface" width="100%">
+          </div>
+      
      - **Graphical User Interface (GUI)**: A visual, user-friendly interface for managing donations and requests, particularly helpful for non-technical users.
    - Both interfaces offer full functionality for user management, donation tracking, and request handling, ensuring ease of use and accessibility.
 
