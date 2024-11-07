@@ -1,4 +1,4 @@
-# Volunteer Donation System - Object-Oriented Programming Project
+![image](https://github.com/user-attachments/assets/56dd21ae-b7a2-42a4-b5da-c3f6c0fdc18f)# Volunteer Donation System - Object-Oriented Programming Project
 
 ## Overview
 
@@ -24,8 +24,8 @@ Developed as part of the **Object-Oriented Programming course** in the **2020-20
 
  - Initial login and register is handled via the command line menu:
    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-         <img src="" alt="CLI - Selection Menu" width="300" height="300">
-         <img src="" alt="CLI - Admin Main Menu" width="300" height="300">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Initial_Login_Phone.png" alt="CLI - Selection Menu" width="300" height="300">
+         <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/User_Not_Found.png" alt="CLI - Admin Main Menu" width="300" height="300">
          <img src="https://github.com/GrigorisTzortzakis/Volunteer-Donation-System/blob/main/Java/Pics/Register.png" alt="CLI - Admin View" width="300" height="300">
         
    </div>
