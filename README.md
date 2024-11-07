@@ -91,7 +91,7 @@ Custom exceptions handle invalid actions, such as requesting more than the avail
 ## Instructions
 
 ### 1. Required Files
-To execute this project, you need to ensure that relevant files are properly organized and accessible. Specific files for configuration or dataset loading are necessary for running the project in Java or C++.
+To execute this project, you need to ensure that relevant files are properly organized and accessible in the same directory. Intellij ide by Jetbrains was used for the java part and Clion by Jetbrains was used for the c++ part.
 
 ### 2. Running the Project
 #### Java
@@ -102,9 +102,7 @@ To execute this project, you need to ensure that relevant files are properly org
 1. Compile the `.cpp` files with a compatible compiler.
 2. Run the compiled executable to start the command-line menu.
 
-### 3. Additional Resources
-For more information on the project requirements and implementation:
-- View the project instructions and guidelines in the accompanying documentation.
+
 
 
 
